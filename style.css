@@ -1,0 +1,36 @@
+body {
+    background-color: #D5E1EF;
+    position: relative;
+    height: 100vh;
+    font-family: 'Outfit', sans-serif;
+}
+.main {
+    width: 320px;
+    border-radius: 20px;
+    background-color: white;
+    overflow: hidden;
+    padding: 24px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+img {
+    max-width: 320px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 22px;
+    text-align: center;
+    font-weight: 700;
+    color: #1F314F;
+    margin: 24px 16px 16px 16px;
+}
+p{
+    font-size: 15px;
+    color: #7D889E;
+    text-align: center;
+    font-weight: 400;
+    margin: 16px 32px 40px 32px;
+  
+}
